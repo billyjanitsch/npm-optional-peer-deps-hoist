@@ -1,0 +1,16 @@
+{
+  "name": "npm-optional-peer-deps-hoist",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Billy Janitsch <billy@kensho.com> (https://billyjanitsch.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.5",
+    "ow": "^0.17.0"
+  }
+}
